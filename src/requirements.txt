@@ -1,0 +1,16 @@
+pandas
+numpy
+streamlit
+matplotlib
+seaborn
+openai
+python-dotenv
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+xlsxwriter
+fpdf
+openai
